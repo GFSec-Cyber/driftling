@@ -4,6 +4,8 @@ A bioluminescent underwater arcade game for iOS.
 
 Tap to float. Dodge the coral pillars. See how far you can drift.
 
+<img width="2688" height="1242" alt="pic1" src="https://github.com/user-attachments/assets/022c0d32-5947-4f9d-af83-251ef5663263" />
+
 ---
 
 ## Features
