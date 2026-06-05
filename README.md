@@ -44,7 +44,7 @@ Driftling does not collect, store, or share any personal data.
 
 The game saves your progress locally on your device only. No accounts, no tracking, no ads, no internet connection required to play.
 
-For questions about privacy, contact: your@email.com
+For questions about privacy, contact: GFSec-Cyber@proton.me
 
 ---
 
